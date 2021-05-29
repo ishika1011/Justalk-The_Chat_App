@@ -2,9 +2,12 @@
 
 # outputs:-
 
-Wireframe:- https://youtu.be/czNK2SAiT0Q
+Wireframe:- https://youtu.be/czNK2SAiT0Q 
+<br>
 Mockup:- https://youtu.be/tevtgvKhkJA
+<br>
 User Manual:- https://youtu.be/TA_mxhRb2Fw
+<br>
 
 here all outputs are mentioned one by one
 <br>
