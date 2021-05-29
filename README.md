@@ -33,10 +33,6 @@ here all outputs are mentioned one by one
 <img src="https://github.com/ishika1011/Justalk-The_Chat_App/blob/master/output%20of%20justalk/8.jpeg" height="500">
 <br>
 
-## Action on Post
-<img src="https://github.com/ishika1011/Justalk-The_Chat_App/blob/master/output%20of%20justalk/8.jpeg" height="500">
-<br>
-
 ## Choose Action Activity
 <img src="https://github.com/ishika1011/Justalk-The_Chat_App/blob/master/output%20of%20justalk/9.jpeg" height="500">
 <img src="https://github.com/ishika1011/Justalk-The_Chat_App/blob/master/output%20of%20justalk/10.jpeg" height="500">
