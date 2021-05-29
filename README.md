@@ -2,6 +2,10 @@
 
 # outputs:-
 
+Wireframe:- https://youtu.be/czNK2SAiT0Q
+Mockup:- https://youtu.be/tevtgvKhkJA
+User Manual:- https://youtu.be/TA_mxhRb2Fw
+
 here all outputs are mentioned one by one
 <br>
 
@@ -42,6 +46,3 @@ here all outputs are mentioned one by one
 <img src="https://github.com/ishika1011/Justalk-The_Chat_App/blob/master/output%20of%20justalk/11.jpeg" height="500">
 <br>
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
