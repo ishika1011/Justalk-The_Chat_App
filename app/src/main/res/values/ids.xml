@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="emailTv" type="id" />
+    <item name="avatarIv" type="id" />
+    <item name="action_loguut" type="id" />
+    <item name="action_logout" type="id" />
+</resources>

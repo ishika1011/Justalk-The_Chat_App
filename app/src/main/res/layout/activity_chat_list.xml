@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".chat_list">
+
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/profileIv"
+        app:civ_border_color="@null"
+        android:src="@drawable/ic_profile_black"/>
+
+
+    <TextView
+        android:id="@+id/messageTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="His message"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_toEndOf="@+id/profileIv"
+        android:layout_toRightOf="@id/profileIv"
+        android:layout_marginLeft="3dp" />
+
+
+    <androidx.cardview.widget.CardView
+
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/profileIv1"
+        app:cardCornerRadius="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_above="@+id/profileIv">
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
+
+
+
+
+
+
+
+
+

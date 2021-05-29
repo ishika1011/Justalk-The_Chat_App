@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_blue_light"
+    tools:context=".chatbox">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/conversation"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/userInput"/>
+
+    <EditText
+        android:fontFamily="@font/montserrat"
+        android:imeOptions="actionSend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="25dp"
+        android:elevation="3dp"
+        android:hint="Type Here"
+        android:textSize="25dp"
+        android:textColorHint="#000000"
+        android:background="#ffffff"
+        android:id="@+id/userInput"/>
+
+
+</RelativeLayout>

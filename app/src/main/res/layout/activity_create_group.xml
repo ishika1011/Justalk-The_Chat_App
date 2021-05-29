@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+
+    tools:context=".create_group">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="150dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/groupicon"
+        android:src="@drawable/ic_profile_black"/>
+
+
+    <EditText
+        android:id="@+id/grouptitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:background="#ffffff"
+        android:padding="10dp"
+        android:text="Group Name">
+    </EditText>
+    <EditText
+        android:id="@+id/groupDescription"
+        android:minHeight="200dp"
+        android:gravity="top"
+        android:inputType="textImeMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:layout_marginTop="380dp"
+        android:padding="10dp"
+        android:text="Group Description">
+    </EditText>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/creategroupBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#FFC09D"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/ic_users_black"
+        android:layout_alignParentRight="true">
+
+    </com.google.android.material.floatingactionbutton.FloatingActionButton>
+</RelativeLayout>
